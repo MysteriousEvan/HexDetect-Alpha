@@ -1,0 +1,83 @@
+By using this software, you acknowledge that you have read, understood, and agree to the following terms and conditions. 
+
+This software is a work-in-progress, and its primary purpose is for user testing. It may contain significant bugs, errors, and incomplete features. Use it at your own risk.
+
+TERMS OF SERVICE
+
+- You acknowledge that the software is in alpha and may contain bugs or errors.
+- You agree not to hold the authors or contributors liable for any damage or loss caused by the software.
+- The author encourages users to maintain updated antivirus software and follow general best practices for cybersecurity to minimize risks.
+- You may not redistribute, modify, or reverse-engineer the software without permission from the author.
+- You may use the software solely for personal, non-commercial purposes during the alpha phase unless explicit, prior written consent is obtained from the author.
+- Any feedback or suggestions provided to the author shall be considered the sole property of the author. No compensation or acknowledgment will be provided for such feedback.
+- Prohibited activities include, but are not limited to, copying, disassembling, reverse-engineering, publicly sharing, or redistributing the software, in whole or in part, without prior written authorization.
+- These terms shall be governed by and construed in accordance with the laws of the state of Oregon, USA. Any disputes arising from the use of this software shall be subject to the exclusive jurisdiction of the courts of Oregon, USA.
+- The author reserves the right to update or amend these terms at any time without prior notice. Continued use of the software after such changes constitutes acceptance of the new terms.
+
+The software may be updated, changed, or discontinued at the author's discretion at any time.
+
+Copyright 2025 Evan Wildfong | patreon.com/EvanisWeird
+
+Permission is hereby granted, free of charge, to use the software for personal, non-commercial purposes, subject to the following conditions:
+
+1. You may not distribute, sell, or sublicense the software.
+2. You may not modify, adapt, or create derivative works based on the software.
+3. You may not copy, reverse-engineer, or otherwise steal this software.
+3. The software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability or fitness for a particular purpose.
+
+For inquiries regarding commercial use, or to provide bug reports and feedback, please contact Evan Wildfong at patreon.com/EvanisWeird
+
+PRIVACY POLICY
+
+Effective Date: January 15, 2025
+Evan Wildfong ("the author") values your privacy and is committed to protecting it. This privacy policy explains how this software interacts with your data, including any data that may be collected for error reporting or other incidental purposes.
+
+1. Data Collection
+This software does not actively collect personal data. However, it may collect limited, incidental information in the following cases:
+- Error Reporting: If an error occurs, diagnostic information (e.g., operating system version, device type, error logs) may be generated and sent to the author only if you voluntarily report the error through the provided feedback channels.
+- User Feedback: Any information you provide when submitting feedback (e.g., name, email address, or descriptions of the issue) will be collected and used solely for addressing issues and improving the software. 
+- No sensitive or personal data is intentionally collected by the software during normal usage.
+- Any collected data will be deleted within 30 days after the issue is resolved. Users may contact the author at any time to request the deletion of their data.
+
+2. Data Use
+Collected data will be used only for the following purposes:
+
+Debugging and resolving software errors.
+Enhancing the functionality, stability, and user experience of the software.
+No data will be used for marketing purposes, sold, or shared with third parties.
+
+3. Data Sharing
+The author does not share data with third parties except in the following cases:
+Legal Obligations: If required by law to disclose information, such as in response to a court order or legal process.
+Technical Support: If debugging requires collaboration with technical experts, limited diagnostic information may be shared.
+
+4. Data Retention
+Error logs, feedback, and other collected data will only be retained for as long as necessary to address the relevant issue. After the issue is resolved, the data will be securely deleted.
+
+5. User Responsibility
+Users are responsible for ensuring their device and system security. The author is not liable for unauthorized access to your device or data while using this software.
+
+6. Third-Party Services
+This software does not integrate with any third-party services for data collection or sharing. However, if third-party libraries are used, they are not involved in the collection or sharing of personal data.
+
+7. Changes to this Policy
+This privacy policy may be updated as the software evolves. Continued use of the software after such updates constitutes acceptance of the revised policy.
+
+8. Contact Information
+For questions, concerns, or to report an issue, please contact:
+Evan Wildfong at patreon.com/EvanisWeird
+
+The privacy policy may be updated in the future. Users will be notified of any significant changes via Patreon, Ko-Fi, or wherever this program is officially distributed.
+
+DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ALPHA VERSION DISCLAIMER
+
+THIS SOFTWARE IS IN ALPHA STAGE AND IS PROVIDED FOR TESTING PURPOSES ONLY. IT MAY CONTAIN BUGS, ERRORS, OR DEFECTS THAT COULD AFFECT THE PERFORMANCE OF THE SOFTWARE OR CAUSE DAMAGE TO YOUR SYSTEM. USE OF THIS SOFTWARE IS AT YOUR OWN RISK. THE AUTHORS MAKE NO REPRESENTATION OR WARRANTY THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR BE ERROR-FREE.
+

@@ -1,0 +1,3 @@
+Copyright 2025 Evan Wildfong. All rights reserved.
+
+By using this software, you agree to the terms outlined in the accompanying ToS_EULA_Privacy.txt. This software is licensed for personal, non-commercial use only. Redistribution, modification, or reverse-engineering is prohibited.

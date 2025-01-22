@@ -1,0 +1,27 @@
+Use_Instructions.txt
+Before using HexGuard, please read the ToS_EULA_Privacy.txt file. By using this program, you explicitly agree to the Terms of Service, EULA, and Privacy Policy outlined in the provided document.
+
+How to Use HexGuard:
+
+1. Launching the Program:
+	- Double-click the HexGuard.exe file to launch the program.
+	- The program should open after a few seconds.
+	- Navigating the Program:
+	
+2. Use the on-screen buttons to control and navigate through the program's interface.
+	- Scanning Folders:
+		- Browse and select folders to scan.
+			+ Note: Scanning large folders may cause the program to lag or crash.
+	- Scanning for Corrupt Files:
+		- The program scans for a predefined list of common file extensions (e.g., .txt, .doc, .mp3, .wav, etc.) that are either:
+			+ Unopenable, or
+			+ Contain mismatched or suspicious data inconsistencies.
+	- Managing Detected Files:
+		- Once the scan is complete, HexGuard will notify you of any problematic files.
+		- You can then review these files and decide whether to delete them.
+		
+3. Purpose of HexGuard:
+	- HexGuard automates the typically frustrating and repetitive task of finding potentially corrupted files on your Windows PC.
+	
+4. Compatibility:
+	- Important: HexGuard is designed for use on Windows. It has not been built for Linux or Mac, so use on these systems is at your own risk.
