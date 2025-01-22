@@ -2,9 +2,7 @@
 Download HexDetect Alpha Version
 Pay What It's Worth Through Ko-Fi: https://ko-fi.com/s/52af108c36
 
-Description 
-
-HexDetect is a tool designed to scan for corrupted files on your Windows PC. This alpha version helps identify common file types with data inconsistencies that may be corrupted. 
+Description: HexDetect is a tool designed to scan for corrupted files on your Windows PC. This alpha version helps identify common file types with data inconsistencies that may be corrupted. 
 
 System Requirements: Windows 10 or later Minimum 2GB RAM 50MB of free disk space 
 
