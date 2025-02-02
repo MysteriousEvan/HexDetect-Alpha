@@ -1,6 +1,8 @@
 <p>
 <b>Pay What It's Worth Through Ko-Fi: https://ko-fi.com/s/52af108c36</b>
 <br>
+<b>Support the Developer Through Patreon: https://patreon.com/EvanisWeird</b>
+<br>
 <br>
 HexDetect is a tool designed to scan for corrupted files on your Windows PC. This alpha version helps identify common file types with data inconsistencies that may be corrupted.
 <br>
@@ -15,33 +17,39 @@ HexDetect is a tool designed to scan for corrupted files on your Windows PC. Thi
 <b>Known Issues:</b>
 <br>
 <ul style="list-style-type: none; padding-left: 0;">
-	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖ Large folders may cause the program to lag or crash.</span>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖ Include as many verifiable extensions as possible. Maybe use libraries instead of individually listing each extension in the code.</span>
 	<br>
-	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Some files may not be detected correctly due to incomplete definition lists.</span>   
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖ Double-Clicking on the column resize bars should auto-resize the column to fit the data.</span>   
+	<br>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖ Extend functionality to detect broken game mods (e.g. The Sims, Minecraft), proprietary extensions, or .exe's. </span>   
+	<br>  
 </ul>
-<b>Future Versions:</b>
+<b>Improvements:</b>
 <br>
 <ul style="list-style-type: none; padding-left: 0;">
-	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Add ability to sort columns by clicking the individual field titles.</span>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Allow right click interaction with result fields to copy the text of the selected field or an option to open the file location in file explorer in another window.</span>
 	<br>
-	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Move the Cancel Scan button up under the Start Scan Button, above the Delete Selected File button.</span>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Large folders may cause the program to lag or crash. Optimize how the scan functions so it can handle large folders without freezing or crashing. </span>
 	<br>
-	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Allow right click interaction with result fields to copy the text of the selected field.</span>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Add Instructions</span>
 	<br>
-	<span style="position: absolute; left: 0; content: '❖'; color: blue;">❖ Add an option to open the file location in file explorer in another window.</span>
+	<span style="position: absolute; left: 0; content: '❖'; color: blue;">❖ Add list of supported extensions.</span>
+	<br>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	 Add dark mode.</span>
 	<br>
 	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Add visible scroll bars to the information tables.</span>
 	<br>
-	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Extend functionality to detect broken game mods (e.g. The Sims, Minecraft) or .exe's.</span>
-</ul>
-<b>Add Instructions:</b>
-<br>
-<ul>
-	<span style="position: absolute; left: 0; content: '❖'; color: green;">❖	CTRL+CLICK to select multiple folders or files individually</span>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Add ability to sort columns by clicking the individual field titles.</span>
 	<br>
-	<span style="position: absolute; left: 0; content: '❖'; color: green;">❖	SHIFT+CLICK to select a range of folders or files.</span>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Move the buttons to be more visually appealing and logical.</span>
 	<br>
-	<span style="position: absolute; left: 0; content: '❖'; color: green;">❖	Add list of supported extensions. (e.g. .txt, .mp3, .wav, .doc, .mkv, .mp4, .pdf, .jpg, .jpeg, .blend, etc.)</span>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Add visible scroll bars to the information tables.</span>
+	<br>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	If a file type isn't recognized, it should say "Not Recognized" instead of "Possible Corruption". Add other identifiers as needed.</span>
+	<br>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖ Needs to list the date last modified by the user and date created.</span>
+	<br>
+	<span style="position: absolute; left: 0; content: '❖'; color: red;">❖	Improved text size and readability.</span>
 </ul>
 <br>
 <b>Feedback:</b> Your feedback helps improve the program! Report bugs or suggest features through Ko-Fi or Patreon.
@@ -50,4 +58,4 @@ HexDetect is a tool designed to scan for corrupted files on your Windows PC. Thi
 <br>
 <b>Support:</b> For support, contact me via Ko-Fi or Patreon.
 <br>
-<b>Version:</b> 1.1 Alpha
+<b>Version:</b> 1.1.2 Alpha
