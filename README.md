@@ -1,13 +1,6 @@
-<p>
-<b>Pay What It's Worth Through Ko-Fi: https://ko-fi.com/s/52af108c36</b>
+<p>HexDetect is a tool designed to scan for corrupted files on your Windows PC. This alpha version helps identify common file types with data inconsistencies that may be corrupted.</p>
 <br>
-<b>Support the Developer Through Patreon: https://patreon.com/EvanisWeird</b>
-<br>
-<br>
-HexDetect is a tool designed to scan for corrupted files on your Windows PC. This alpha version helps identify common file types with data inconsistencies that may be corrupted.
-<br>
-<br>
-<b>System Requirements:</b> Windows 10 or later Minimum 2GB RAM 50MB of free disk space
+<p><b>System Requirements:</b> Windows 10 or later Minimum 2GB RAM 50MB of free disk space</p>	
 <br>
 <b>Download:</b> Download HexDetect.zip
 <br>
@@ -59,3 +52,10 @@ HexDetect is a tool designed to scan for corrupted files on your Windows PC. Thi
 <b>Support:</b> For support, contact me via Ko-Fi or Patreon.
 <br>
 <b>Version:</b> 1.1.2 Alpha
+<br>
+<br>
+<p>
+<b>Pay What It's Worth Through Ko-Fi: https://ko-fi.com/s/52af108c36</b>
+<br>
+<b>Support the Developer Through Patreon: https://patreon.com/EvanisWeird</b></p>
+
